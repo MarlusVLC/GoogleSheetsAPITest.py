@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spreadsheettest-api",
+  "private_key_id": "8e5bcc83a7ea73b4315c559c2fcadf98bd1bedfc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo9+wdCU/NoGMl\nOzq0Z1a4wHCJ4fhmizwIcKlAEYfZsLWzUO6khyUZBaDVmXm4uzIJqiXXpiqPrcb0\nm1Iw4nHKIHYqqF+087j277IaCw/nfa9f636jWS4LAOF6pRUgs+QTzmVucpK7wmgG\ndLb0TkyASfnE09U8x42y6XmGA+zz8NKlU1Te19a76Z5+OI7kj5dieAxAg5kL/9IO\nKxWszmvNNyWFmQ2z1cZ9GjSzV9KbegKbbarD/JDfS9xVaQy23qbhjZTgHIo1cc9O\nqz9f3LOYZEMJGqZXis1KOAysNd1yOpDZc1qgszER6SSZ06thPav8DWlBF6dBqQvX\n+yNNOZtZAgMBAAECggEADI1SVHvfGkrqYpcqTsGIfzQIiC2putBoFsZrxE8pFOJc\nNSRzffRuLJQu9P8wPCln17D0m7cD3WWO7JfnPKttwZK0xIl6hqI+YNXAmM+ukEdV\ncl43q6HR2k5n8aj2z1WdwVzpSxGm1dzkxmoAN1jjtPoJ3HXSFvBKFfrjJLIA9cQU\nq+hECNoPBlvOC2CkwSj3ZgLxkCqQHvjS5dw3zPW9aaQkHl4Vz8PqsYh87nRvyP/j\n4OzTuhxzUbbWmhgzzx6uI7RPyMRjdGr9qj0Ss8V5qnXm6ZT1RJpt2c6nF5vSSfay\nh45K3pKMGl04zzjyqCtAKdGgNaz2+NpnZ0SblZWKKQKBgQDZLiWIW0Ec9xIny8g1\nAqhQDQafeKoJ1P2ZHRpK9gU2wSjkzqq/YoCdVAj3H3xEnQ4/qVCE0fPXGTKItCK3\ncGCe0gw/jZOVifxAirDTphgpbqHcCJkgVndfffUSEliXjb2/oCeeofiAAz+zsLst\nOp89Or3c5TU5y/62wbxRvtoozQKBgQDHK6xRBE6P5BW6GUf8nFMYzI08xER/faFl\n1nqUi1L0dIj+daos4gCphJrMoed6dm6o9AW263pp5EXz9Xhlqg8D6Z8suWeHEiFX\nfSLwZovA4QibdEzlVXYM9Dl3eMSXOSxQLAcrjoxHKO+uxvtrtuKQCVWKjiUEHoq+\nKjM0nL9svQKBgHOoLJq6JinbtdJ1po/8c0/2L+G7K6qCv+7LXdYvwEURhsqa+Lll\nJqMiPogEP3R2w0DJ1TR2bsnNBGlirN5NvVa2+4jYx5CqZCim81YzLMjbvtzjw1BC\nW94BwQI3vPAwrq0fCBplnWXm1QTHiFak0mqUHspFUhwOc/41nClYXuu9AoGAdbiK\nkRhKlyHo9aYbtmNveijtEg2vrutCij7LFSGEVpjKoBxMCVtLqOaH2IuZlfiKT7Jr\n7kIgiJY0Ao4EK5LobReYzYaIen1s15lPHWh/EfHwdHG5QZPRwrZXgRYQnJFeb8SW\nOFh48VZw1I0n7fKa1yetN8fseRLUTrICsgYz3sECgYEAoAJ2BY4akXSBumN2okHZ\nceViOvymnw5f707HqnZvM99KOGLHmk9u6Nb5Jz5AXNZ+Pd5AUJZw7gRDhesSgDnR\nulXfNB8SXPy+7vIXwm8g4nnDp2IGaWgJXFdizu2hX8BnFZBrb4oIDQzEgG91WL3r\nWMvlSC4iaFCgM+ifk4eJ248=\n-----END PRIVATE KEY-----\n",
+  "client_email": "marlusvinicius@spreadsheettest-api.iam.gserviceaccount.com",
+  "client_id": "100383384146848240029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marlusvinicius%40spreadsheettest-api.iam.gserviceaccount.com"
+}
